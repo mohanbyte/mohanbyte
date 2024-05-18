@@ -20,7 +20,7 @@
 <a href="https://twitter.com/imohanbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imohanbyte" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kmohan-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kmohan-reddy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12876430/mohan-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12876430/mohan-reddy" height="30" width="40" /></a>
-<a href="https://medium.com/mohanbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mohanbyte" height="30" width="40" /></a>
+<a href="https://medium.com/@mohanbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mohanbyte" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/imohankrishna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/imohankrishna/" height="30" width="40" /></a>
 </p>
 
