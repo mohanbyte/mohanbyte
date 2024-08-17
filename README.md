@@ -1,5 +1,5 @@
 <h1 align="center">Hello!👋, I'm Mohan Reddy</h1>
-<h3 align="center">Frontend Developer @ Faclon Labs</h3>
+<h3 align="center">Software Developer @ Faclon Labs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanbyte&label=Profile%20views&color=0e75b6&style=flat" alt="mohanbyte" /> </p>
 
