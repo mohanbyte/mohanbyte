@@ -34,4 +34,6 @@
 
 - 📫 How to reach me *[Mohan Reddy](https://www.linkedin.com/in/kmohan-reddy/)*
 
+  
+<a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohanbyte" alt="GitHub Streak" /></a>
 ![Mohan's blog](https://github-read-medium.vercel.app/latest?username=@mohanbyte&limit=6&theme=graywhite)
